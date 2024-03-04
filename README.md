@@ -17,7 +17,7 @@ This Python CLI (Command-Line Interface) application is designed for library man
 3. Install the required packages using pip:
 
 ## Usage:
-1. Run the Python script (`library_management.py`).
+1. Run the Python script (`Library Management.py`).
 2. Follow the on-screen prompts to create a new library or select an existing one.
 3. Use the CLI menu to add, modify, or remove books from the selected library.
 4. Library data will be automatically saved to JSON files in the project directory.
